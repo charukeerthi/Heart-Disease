@@ -33,7 +33,7 @@ There are 15 columns in the dataset, however the first column name is not a good
 - _Resting Blood Pressure_ : displays the resting blood pressure value of an individual in mmHg (unit)
 - _Serum Cholestrol_ : displays the serum cholestrol in mg/dl (unit)
 - _Fasting Blood Sugar_ : compares the fasting blood sugar value of an individual with 120mg/dl. If fasting blood sugar > 120mg/dl then : 1 (true) else : 0 (false)
-- _Resting ECG_ : 0 = normal 1 = having ST-T wave abnormality 2 = left ventricular hyperthrophy
+- _Resting ECG_ : 0 = normal, 1 = having ST-T wave abnormality, 2 = left ventricular hyperthrophy
 - _Max heart rate achieved_ : displays the max heart rate achieved by an individual.
 - _Exercise induced angina_ : 1 = yes, 0 = no
 - _ST depression induced by exercise relative to rest_ : displays the value which is integer or float.
