@@ -28,19 +28,19 @@ There are 15 columns in the dataset, however the first column name is not a good
 
 - _Age_ : displays the age of the individual.
 
-- _Sex_ : displays the gender of the individual using the following format : 1 = male 0 = female.
-- _Chest-pain type_ : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina 2 = atypical angina 3 = non - anginal pain 4 = asymptotic
+- _Sex_ : displays the gender of the individual using the following format : 1 = male, 0 = female.
+- _Chest-pain type_ : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina, 2 = atypical angina, 3 = non - anginal pain, 4 = asymptotic
 - _Resting Blood Pressure_ : displays the resting blood pressure value of an individual in mmHg (unit)
 - _Serum Cholestrol_ : displays the serum cholestrol in mg/dl (unit)
 - _Fasting Blood Sugar_ : compares the fasting blood sugar value of an individual with 120mg/dl. If fasting blood sugar > 120mg/dl then : 1 (true) else : 0 (false)
 - _Resting ECG_ : 0 = normal 1 = having ST-T wave abnormality 2 = left ventricular hyperthrophy
 - _Max heart rate achieved_ : displays the max heart rate achieved by an individual.
-- _Exercise induced angina_ : 1 = yes 0 = no
+- _Exercise induced angina_ : 1 = yes, 0 = no
 - _ST depression induced by exercise relative to rest_ : displays the value which is integer or float.
-- _Peak exercise ST segment_ : 1 = upsloping 2 = flat 3 = downsloping
+- _Peak exercise ST segment_ : 1 = upsloping, 2 = flat, 3 = downsloping
 Number of major vessels (0-3) colored by flourosopy : displays the value as integer or float.
-- _Thal_ : displays the thalassemia : 3 = normal 6 = fixed defect 7 = reversable defect
-- _Diagnosis of heart disease_ : Displays whether the individual is suffering from heart disease or not : 0 = absence 1,2,3,4 = present.
+- _Thal_ : displays the thalassemia : 3 = normal, 6 = fixed defect, 7 = reversable defect
+- _Diagnosis of heart disease_ : Displays whether the individual is suffering from heart disease or not : 0 = absence, 1,2,3,4 = present.
 
 # Technology
 
