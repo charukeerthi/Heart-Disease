@@ -9,7 +9,7 @@
 
 # Introduction
 
-Heart Disease Prediction is a Machine learning project. It is a model created by testing and training of previous datasets of patients to predict the heart disease for a given input. It is used to train, test and predict the heart disease using Jupyter Notebook software.
+Heart Disease Prediction is a Machine learning project. It is a model created by testing and training of previous datasets of patients to predict the heart disease for a given input. It is used to train, test and predict the heart disease by the `Logistic Regression` using Jupyter Notebook software.
 
 # Problem Description
 
